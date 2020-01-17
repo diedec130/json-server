@@ -1,7 +1,7 @@
 {
   "maintenance": {
-    success: true,
-    data: {
+    "success": true,
+    "data": {
       onMaintenance: true,
       message: "En este momento nuestra plataforma no está disponible porque estamos realizando tareas de mantenimiento, por favor ingresa en unos minutos. <br> Disculpa los inconvenientes, agradecemos tu comprensión"
     }
