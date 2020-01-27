@@ -22,7 +22,7 @@
                 "type": "ACH",
                 "contract": "", 
                 "version": "-1",
-                "accepted": true
+                "accepted": false
             },
             {
                 "type": "RS",
